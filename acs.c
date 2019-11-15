@@ -1,5 +1,4 @@
 /*
-CSC360 Assignment2
 shuwenli
 V00024025
 */

@@ -1,6 +1,4 @@
 University of Victoria
-Fall 2018
-CSC360 Assignment2
 Shuwen Li
 V00024025
 
